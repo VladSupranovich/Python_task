@@ -6,5 +6,6 @@
 /include
 /.pytest_cache
 /__pycache__
+/query_result
 *.cfg
 *test.py
