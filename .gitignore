@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/Scripts
+/Lib
+/include
+/.pytest_cache
+/__pycache__
+*.cfg
+*test.py
