@@ -65,4 +65,4 @@ db.write_file('rooms', rooms_file)
 db.write_file('students', students_file)
 
 db.select_data(sql.rooms_diff_sex, 'json')
-db.add_index()
+#db.add_index()
