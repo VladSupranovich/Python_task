@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 /Scripts
-/Lib
 /include
 /.pytest_cache
 /__pycache__
 /query_result
+/Lib
 *.cfg
 *test.py
